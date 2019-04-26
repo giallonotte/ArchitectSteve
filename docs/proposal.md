@@ -3,6 +3,9 @@ layout: default
 title:  Proposal
 ---
 ## Summary of the Project 
+New Proposal:
+Try to use Google maps 3D in order to create buildings in Minecraft similar to those on Google Maps.Our End goal would be to be able to create a whole city in minecraft through the creation of these buildings. 
+Previous Proposal:
 Our goal for this Project is to get our Agent to build buildings based off of what the users asks for AI to build. The inspiration came from the frustration of players that want to have a cool and or even a simple buildings for their world but don't want to put too much time  and effort into it since there’s much more to do in Minecraft! The user should be able to tell the AI to “build me a castle” and the AI should know what type of blocks to use in order to build it as well as know other blocks/feature that come along with making a castle look like a castle. In addition to that, the AI should also know where to put certain objects, for example, know to put the door at the bottom of the building and roof blocks on top. 
 
 ## AI/ML Algorithms
