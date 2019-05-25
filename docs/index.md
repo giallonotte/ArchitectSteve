@@ -2,7 +2,13 @@
 layout: default
 title:  Home
 ---
-## ArchitectSteve
+Where to go:
+
+- [Proposal](proposal.html)
+- [Status](status.html)
+- [Final](final.html)
+
+## Who is Steve?
 Steve had spent his whole life successful maze critic. Day after day, Steve spent his time running from maze to maze, occasionally spending time on his hobbies of crafting and street fighting, but it was never long before he was forced to go off and review the next maze. No matter how many times he made it through or got stuck it seemed that there was never a shortage of people eager to have Steve test out their mazes.
 
 https://imgur.com/a/AFLojpF
@@ -22,11 +28,12 @@ https://imgur.com/a/0XD6nJN
 
 Finally, after a lot of hard work and patience, Steve made it! He began his own architecture office in the city over-looking the beautiful skyline and he never reviewed another maze again!
 
-## Source code: https://github.com/muhrisa/ArchitectSteve(_fix this_)
+## Source Code: 
+https://github.com/muhrisa/ArchitectSteve
 
-Reports:
+## Other Resources Used
+Python Programming Language: it's easy to learn and use Python. https://www.python.org/downloads/
 
-- [Proposal](proposal.html)
-- [Status](status.html)
-- [Final](final.html)
+Malmo: a platform for Artificial Intelligence experimentation and research built on top of Minecraft. An essential part of this project so you don't have to build or install platform dependent code.
+https://github.com/Microsoft/malmo
 
