@@ -27,11 +27,6 @@ To achieve the current prototype we have encountered many challenges. We experie
 Regarding the stylization, one concerns is the selection process of images to train the network on. Additionally, there is a  concern about transforming the resolution into an acceptable likeness of the desired facade. One way to mitigate this concern is to determine specific guidelines for choosing the images. We plan to discuss our ideas regarding stylization further with our mentor to determine the best step forward. 
 
 ## Resources Used
-Python Programming Language: it's easy to learn and use Python. https://www.python.org/downloads/
-
-Malmo: a platform for Artificial Intelligence experimentation and research built on top of Minecraft. An essential part of this project so you don't have to build or install platform dependent code.
-https://github.com/Microsoft/malmo
-
 Imutils: image processing functions such as translation, rotation, resizing, skeletonization, sorting contours and detecting edges with OpenCV and Python 3.
 https://pypi.org/project/imutils/
 
